@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Samsul Arifin 👋
 
-<!--
-**samsul-arifin-17/samsul-arifin-17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Bachelor of Science in Computer Science and Engineering  
+📍 Bangladesh  
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
+I am a Computer Science graduate with a strong interest in software development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Technical Skills
+- C#, Java
+- SQL Server, MySQL
+- HTML, CSS, JavaScript
+- Git & GitHub
+
+## 📚 Currently Learning
+- .NET Framework
+
+## 🎯 Career Objective
+To secure a software developer role where I can apply my skills and continue growing professionally.
+
+## 📫 Contact
+- GitHub: https://github.com/samsul-arifin-17
+- Email: smarifin17@gmail.com
